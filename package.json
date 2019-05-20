@@ -10,6 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "seanshepherd",
-  "license": "ISC"
+  "author": "seanshep",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seanshep/tradehouse.git"
+}
 }
